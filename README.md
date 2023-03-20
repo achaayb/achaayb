@@ -8,3 +8,4 @@ I specialize in FastAPI, Flask, FARM/MERN, I create high-performance web apps th
 - 🌍 I'm mostly active within the **Python Community**
 - 💬 Ping me about **Backend**, **API Architecture**, **Optimisation**, **Business**, **Collaboration**
 - 📫 Reach me: [linkedin/in/achaayb](https://www.linkedin.com/in/achaayb/)
+- 🍆 My resume : [Resume](https://achaayb.github.io)
