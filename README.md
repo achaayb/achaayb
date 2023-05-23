@@ -12,12 +12,13 @@ I specialize in Creating high-performance API's And Architectures that meet mode
 
 #### TODO
 
-- [ ] Finish Reading : Kubernetes Up & Running
+##### Books
+- [ ] Kubernetes Up & Running
+##### Certifications
 - [ ] CKA Certified (Kubernetes)
 - [ ] PCAP (Python)
-- [ ] PCPP1 (Python)
-- [ ] PCPP2 (Python)
 - [ ] AWS Certified Cloud Practitioner (AWS)
+- [ ] AWS Certified DevOps Engineer - Professional
+##### Open Source Projects
 - [ ] Create a React boilerplate based on Bulma Admin One
 - [ ] Create a FastAPI SSO API for reusability
-- [ ] HashiCorp Certified: Terraform Associate
