@@ -20,3 +20,4 @@ I specialize in Creating high-performance API's And Architectures that meet mode
 - [ ] AWS Certified Cloud Practitioner (AWS)
 - [ ] Create a React boilerplate based on Bulma Admin One
 - [ ] Create a FastAPI SSO API for reusability
+- [ ] HashiCorp Certified: Terraform Associate
