@@ -13,12 +13,8 @@ I specialize in Creating high-performance API's And Architectures that meet mode
 #### TODO
 
 ##### Books
-- [ ] Kubernetes Up & Running
+- [x] Kubernetes Up & Running
 ##### Certifications
 - [ ] CKA Certified (Kubernetes)
 - [ ] PCAP (Python)
-- [ ] AWS Certified Cloud Practitioner (AWS)
-- [ ] AWS Certified DevOps Engineer - Professional
-##### Open Source Projects
-- [ ] Create a React boilerplate based on Bulma Admin One
-- [ ] Create a FastAPI SSO API for reusability
+- [ ] API Designer (API Academy)
